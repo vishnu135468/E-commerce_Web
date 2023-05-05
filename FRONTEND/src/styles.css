@@ -1,0 +1,32 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+footer{
+  position:absolute;
+  bottom:0px;
+  right:0px;
+  left:0px;
+
+  }
+/* 
+  .back{
+    background-image: url("./image/background.jpg");
+    background-size: cover;
+  } */
+.jumbotron{
+  height: 175px;
+}
+  .border-5 {
+    border-width:5px !important;
+}
+
+table, th, td {
+  border: 1px solid;
+}
